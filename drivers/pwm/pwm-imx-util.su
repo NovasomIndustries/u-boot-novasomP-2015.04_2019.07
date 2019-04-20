@@ -1,0 +1,2 @@
+pwm-imx-util.c:19:18:pwm_id_to_reg	8	static
+pwm-imx-util.c:41:5:pwm_imx_get_parms	40	static

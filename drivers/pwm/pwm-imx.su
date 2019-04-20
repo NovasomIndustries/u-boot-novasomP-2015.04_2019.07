@@ -1,0 +1,4 @@
+pwm-imx.c:17:5:pwm_init	8	static
+pwm-imx.c:25:5:pwm_config	40	static
+pwm-imx.c:46:5:pwm_enable	8	static
+pwm-imx.c:54:6:pwm_disable	8	static

@@ -1,0 +1,13 @@
+novasomp.c:318:13:enable_lvds	8	static
+novasomp.c:337:13:enable_hdmi	0	static
+novasomp.c:62:5:splash_screen_prepare	24	static
+novasomp.c:112:5:dram_init	8	static
+novasomp.c:195:5:board_mmc_getcd	8	static
+novasomp.c:211:5:board_mmc_init	16	static
+novasomp.c:255:5:board_phy_config	8	static
+novasomp.c:438:5:board_eth_init	16	static
+novasomp.c:456:5:board_early_init_f	8	static
+novasomp.c:469:5:overwrite_console	0	static
+novasomp.c:483:5:board_late_init	8	static
+novasomp.c:504:5:board_init	8	static
+novasomp.c:523:5:checkboard	8	static

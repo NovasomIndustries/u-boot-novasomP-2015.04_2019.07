@@ -1,0 +1,2 @@
+spl.c:18:5:spl_boot_device	0	static
+spl.c:65:5:spl_boot_mode	8	static

@@ -1,0 +1,12 @@
+if TARGET_NOVASOMP
+
+config SYS_BOARD
+	default "novasomp"
+
+config SYS_SOC
+	default "mx6"
+
+config SYS_CONFIG_NAME
+	default "novasomp"
+
+endif

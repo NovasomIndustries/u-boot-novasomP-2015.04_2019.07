@@ -1,0 +1,6 @@
+ehci-mx6.c:196:5:usb_phy_mode	0	static
+ehci-mx6.c:213:12:board_usb_phy_mode	0	static
+ehci-mx6.c:218:12:board_ehci_hcd_init	0	static
+ehci-mx6.c:223:12:board_ehci_power	0	static
+ehci-mx6.c:228:5:ehci_hcd_init	32	static
+ehci-mx6.c:268:5:ehci_hcd_stop	0	static

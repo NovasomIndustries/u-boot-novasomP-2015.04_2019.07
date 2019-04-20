@@ -1,0 +1,3 @@
+ddr.c:76:6:mx6dq_dram_iocfg	16	static
+ddr.c:154:6:mx6sdl_dram_iocfg	12	static
+ddr.c:251:6:mx6_dram_cfg	88	static

@@ -1,0 +1,17 @@
+soc.c:61:5:get_nr_cpus	0	static
+soc.c:67:5:get_cpu_rev	0	static
+soc.c:96:12:get_board_rev	8	static
+soc.c:110:6:init_aips	0	static
+soc.c:421:5:arch_cpu_init	16	static
+soc.c:516:5:board_postclk_init	8	static
+soc.c:537:6:enable_caches	8	static
+soc.c:562:6:imx_get_mac_from_fuse	0	static
+soc.c:644:6:boot_mode_apply	0	static
+soc.c:679:18:get_boot_device	0	static
+soc.c:722:6:s_init	8	static
+soc.c:766:6:set_wdog_reset	0	static
+soc.c:788:6:reset_misc	0	static
+soc.c:916:6:imx_enable_hdmi_phy	16	static
+soc.c:932:6:imx_setup_hdmi	0	static
+soc.c:969:6:v7_outer_cache_enable	8	static
+soc.c:1020:6:v7_outer_cache_disable	0	static

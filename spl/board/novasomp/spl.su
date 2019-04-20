@@ -1,0 +1,2 @@
+spl.c:293:6:board_init_f	8	static
+spl.c:321:6:reset_cpu	0	static

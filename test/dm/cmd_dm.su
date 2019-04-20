@@ -1,0 +1,4 @@
+cmd_dm.c:130:12:do_dm	16	static
+cmd_dm.c:85:12:do_dm_dump_uclass	24	static
+cmd_dm.c:19:13:show_devices	40	static
+cmd_dm.c:53:12:do_dm_dump_all	8	static

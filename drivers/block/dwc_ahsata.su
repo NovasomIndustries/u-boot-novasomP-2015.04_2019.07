@@ -1,0 +1,15 @@
+bitops.h:12:19:generic_ffs.part.0	0	static
+dwc_ahsata.c:408:12:ahci_exec_ata_cmd	48	static
+dwc_ahsata.c:713:12:dwc_ahsata_rw_cmd_ext	96	dynamic,bounded
+dwc_ahsata.c:664:12:dwc_ahsata_rw_cmd	96	dynamic,bounded
+dwc_ahsata.c:556:5:init_sata	72	static
+dwc_ahsata.c:595:5:reset_sata	8	static
+dwc_ahsata.c:696:6:dwc_ahsata_flush_cache	88	dynamic,bounded
+dwc_ahsata.c:750:5:dwc_ahsata_rw_ncq_cmd	96	dynamic,bounded
+dwc_ahsata.c:793:6:dwc_ahsata_flush_cache_ext	88	dynamic,bounded
+dwc_ahsata.c:823:5:ata_low_level_rw_lba48	40	static
+dwc_ahsata.c:857:5:ata_low_level_rw_lba28	40	static
+dwc_ahsata.c:890:5:sata_port_status	0	static
+dwc_ahsata.c:910:7:sata_read	24	static
+dwc_ahsata.c:923:7:sata_write	32	static
+dwc_ahsata.c:946:5:scan_sata	192	dynamic,bounded

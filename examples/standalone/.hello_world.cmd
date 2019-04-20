@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := arm-buildroot-linux-gnueabihf-ld.bfd   -g -Ttext 0xc100000 -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o -L /Devel/NOVAsdk2019.01/Xcompiler_2019.01/arch32-arm-gcc-5.5.0/bin/../lib/gcc/arm-buildroot-linux-gnueabihf/5.5.0 -lgcc
