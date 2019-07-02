@@ -1,2 +1,0 @@
-smsc.c:35:12:smsc_startup	16	static
-smsc.c:72:5:phy_smsc_init	8	static
